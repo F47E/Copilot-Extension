@@ -1,5 +1,5 @@
 # Copilot-Extension
-This is just a simple extension that opens Microsoft Copilot into an iFrame (Sign in not available)
+This is just a simple extension that opens Microsoft Copilot into an iFrame
 
 Start:
 1. Download this repo as a ZIP archive.
